@@ -2,6 +2,7 @@
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning CSE
 - 📫 You can reachto me @digvijay2263@gmail.com
+- 📷 I have developed in Photography
 
 <!---
 Digwish2283/Digwish2283 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
