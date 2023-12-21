@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Digwish2283
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning CSE
-- 📫 You can reachto me @digvijay2263@gmail.com
+- 📫 You can reach me @digvijay2263@gmail.com
 - 📷 I have developed in Photography
 
 <!---
