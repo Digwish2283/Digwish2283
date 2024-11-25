@@ -35,6 +35,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-![snake gif](https://github.com/Digwish2283/Digwish2283/blob/output/github-contribution-grid-snake.svg)
-
-
